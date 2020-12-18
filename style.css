@@ -1,0 +1,91 @@
+/* write your code here */
+#logo {
+    padding: 10px;
+    padding-top: 10px;
+}
+
+
+#logo img {
+    height: 200px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.deskripsi {
+    width: 100%;
+    padding: 5px;
+    background-color: #3d2626;
+    color: honeydew;
+    box-sizing: content-box;
+    position: relative;
+    text-align: center;
+    font-size: large;
+}
+
+
+/* .center { */
+    /* display: block; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+  /* } */
+
+  
+#content {
+    width: auto;
+    padding: 2px;
+    text-align: center;
+    background: #fcfcfc;
+    color: rgb(121, 102, 102);
+}
+
+
+#content img {
+    height: 150px;
+}
+
+
+#photo-concert {
+    width: auto;
+    padding: 3px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+#photo-concert img {
+    height: 170px;
+}
+
+
+.h2 {
+    color: black;
+}
+.h3 {
+
+}
+
+.concert {
+    background-color: rgb(48, 31, 31);
+    size: 15cm;
+    border: 3px solid rgb(0, 0, 0);
+    width: 350px;
+    margin: 75px;
+    text-align: center;
+    border-radius: 10%;
+    padding: 5px;
+    display: inline-block; 
+}
+
+
+footer {
+    position: relative;
+    background-color: rgb(77, 47, 47);
+    width: auto;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
